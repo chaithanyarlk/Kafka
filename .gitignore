@@ -1,0 +1,67 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+*.log.*
+log/
+logs/
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.class
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Application properties
+application.properties
+application.yml
+
+# Spring Boot-specific files
+spring-boot-starter-logging.log
+spring.log
+
+# Temporary files
+*.tmp
+
+# IntelliJ IDEA workspace files
+*.iml
+
+# Gradle Wrapper
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Lombok
+*.iml
+*.ipr
+*.iws
+*.bak/
+*.swp
+*.swo
+*.swa
+*.swl
+*.swm
+*.swt
+*.komodoproject
+.idea/
+
+# IDE folder
+.vscode/
